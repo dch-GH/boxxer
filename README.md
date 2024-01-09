@@ -1,6 +1,8 @@
 # 📦boxxer
 Odin game code hotloading host.
 
+Based on this article by Karl Zylinski: https://zylinski.se/posts/hot-reload-gameplay-code/
+
 ### Example folder structure:
 ```
 Project/
